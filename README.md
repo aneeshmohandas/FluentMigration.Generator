@@ -1,4 +1,5 @@
 # FluentMigration.Generator
+Dotnet tool helps to create fluent migration file(fluentmigrator) from model class.
 
 ## Install 
 ```
